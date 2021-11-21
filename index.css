@@ -9,7 +9,7 @@ body{
 .leftfirstdiv{
     width: 50%;
     margin: 30px;
-    margin-right: 250px;
+    margin-left: 150px;
 }
 .clocklogo{
     background-image: url("./images/logo\ clock.png");
@@ -176,7 +176,7 @@ body{
     height: 100px;
     position:absolute;
     top: 62px;
-    right: 247px;
+    right: 352px;
     margin: auto;
     opacity: 0.71;
     z-index: -1;
@@ -188,7 +188,7 @@ body{
     height: 100px;
     position:absolute;
     top: 73px;
-    right: 267px;
+    right: 375px;
     margin: auto;
     opacity: 0.71;
     z-index: -2;
@@ -229,6 +229,8 @@ body{
     height: 50px;
     width: 540px;
     background-color: white;
+    color: purple;
+    font-family: 'Passion One', cursive;
    
 }
 .rimgdiv{
@@ -251,7 +253,7 @@ body{
     width: 300px;
     padding: 10px;
     font-size: 20px;
-    margin-right: 100px;
+    margin-left: 50px;
     border-radius: 10px;
     background-color: violet;
     color: white;
